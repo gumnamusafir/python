@@ -27,6 +27,7 @@ print('Age: ', age)
 print('Married: ', is_married)
 print('Skills: ', skills)
 print('Person information: ', person_info)
+print("hello world")
 
 # Declaring multiple variables in one line
 
